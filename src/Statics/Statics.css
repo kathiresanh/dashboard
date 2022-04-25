@@ -1,0 +1,16 @@
+#graph{
+    background-color: rgb(233, 243, 243);
+    height: 33vh;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+
+#menu-items{
+    height: 25vh;
+    margin: 3px;
+    background-color: rgb(233, 243, 243);
+    border-radius: 10px;
+}
